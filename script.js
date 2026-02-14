@@ -1,7 +1,7 @@
 const messages = [
     "Anthey Naa?",
-    "Ala kadhu potti why??",
-    "Puvvuuuuu are you serios??",
+    "Ala kadhu potti enduku :((((??",
+    "Puvvuuuuu are you serious??",
     "Pookie please...",
     "Orreyyyyyyyyy!",
     "If you say no, I will be really sad...",
