@@ -1,5 +1,5 @@
 const messages = [
-    "Anthey Na?",
+    "Anthey Naa?",
     "Ala kadhu potti why??",
     "Puvvuuuuu are you serios??",
     "Pookie please...",
